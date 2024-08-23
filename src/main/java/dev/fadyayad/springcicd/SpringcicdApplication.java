@@ -18,6 +18,6 @@ public class SpringcicdApplication {
 class GreetingsController {
     @GetMapping
     public String sayHi(){
-        return "Hi dad 👋";
+        return "Hi dad 👋👋";
     }
 }
